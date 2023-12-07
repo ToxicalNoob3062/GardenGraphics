@@ -1,4 +1,4 @@
-#The Virtual Garden
+# The Virtual Garden
 
 Welcome to the Virtual Garden, a project that beautifully combines the worlds of programming, mathematics, and nature.
 
